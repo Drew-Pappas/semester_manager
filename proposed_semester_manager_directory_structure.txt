@@ -1,0 +1,52 @@
+﻿courses >
+        semester_manager.py
+ 	semester >  
+		course_1 >
+        		course_1_tools>
+                		aggregate_reading_notes.py
+                		aggregate_lecture_notes.py
+                		aggregate_homework_assignments.py
+
+        		course_1_projects>
+                		some_project.py
+
+        		course_1_wk_1>
+
+               			course_1_wk_1_lecture_1_notes.txt
+				course_1_wk_1_lecture_2_notes.txt
+                		wk_1_reading.pdf
+                		course_1_wk_1_reading_notes.txt
+
+                		course_1_wk_1_hw>
+                        		some_file.py
+                        		some_other_file.py
+
+			...
+
+        		course_1_wk_x>
+
+               			course_1_wk_x_lecture_x_notes.txt
+				course_1_wk_x_lecture_x_notes.txt
+                		wk_x_reading.pdf
+                		course_1_wk_x_reading_notes.txt
+
+                		course_1_wk_x_hw>
+                        		some_file.py
+                        		some_other_file.py
+        
+
+
+Course_X >
+        tools>
+                Aggregate_reading_notes.py
+                Aggregate_lecture_notes.py
+                aggregate_homework_assignments.py
+        projects>
+                some_project.py
+        wk_1>
+                Wk_1_lecture_notes.txt
+                Wk_1_reading.pdf
+                Wk_1_reading_notes.txt
+                wk_1_homework>
+                        Some_file.py
+                        some_other_file.py
